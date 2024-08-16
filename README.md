@@ -4,8 +4,20 @@
   Welcome to my GitHub profile! I'm <strong>Marc-Antoine Nadeau</strong>, a Software Engineering Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in applied artificial intelligence.
 </p>
 
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
+
 <h2 align="center">👯 Let's Collaborate!</h2>
-<p align="center" style="font-size: 16px;">
+<p align="Left" style="font-size: 16px;">
   I'm excited to work on:
 </p>
 <ul style="list-style-type: none; text-align: center; padding-left: 0;">
@@ -14,16 +26,14 @@
 </ul>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" style="width: 70%; margin: 10px 0;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" style="width: 70%; margin: 10px 0;" />
+</div>
 
 <h2 align="center">📫 Get in Touch</h2>
-<p align="center" style="font-size: 16px;">
+<p align="left" style="font-size: 16px;">
   Feel free to reach out if you'd like to discuss a project or connect:
 </p>
 <div align="center">
