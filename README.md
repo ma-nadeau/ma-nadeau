@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" style="width: 70%; margin: 10px 0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" style="width: 70%; margin: 10px 0;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
+</div>
+
 <h2 align="center">👯 Let's Collaborate!</h2>
 <p align="Left" style="font-size: 16px;">
   I'm excited to work on:
@@ -25,12 +32,7 @@
   <li style="padding: 5px 0;"><strong>💡 Innovative initiatives:</strong> Pushing the boundaries of automation, cybersecurity, and intelligent systems.</li>
 </ul>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" style="width: 70%; margin: 10px 0;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" style="width: 70%; margin: 10px 0;" />
-</div>
+
 
 <h2 align="center">📫 Get in Touch</h2>
 <p align="left" style="font-size: 16px;">
