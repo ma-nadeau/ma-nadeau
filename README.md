@@ -13,6 +13,15 @@
   <li style="padding: 5px 0;"><strong>💡 Innovative initiatives:</strong> Pushing the boundaries of automation, cybersecurity, and intelligent systems.</li>
 </ul>
 
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</p>
+
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center" style="font-size: 16px;">
   Feel free to reach out if you'd like to discuss a project or connect:
