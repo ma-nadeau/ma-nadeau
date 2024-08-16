@@ -1,31 +1,31 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  Welcome to my GitHub profile! I'm <strong>Marc-Antoine Nadeau</strong>, a Software Engineering Co-op student at McGill University with a passion for developing innovative software solutions and a keen interest in applied artificial intelligence.
+<p align="center" style="font-size: 18px;">
+  Welcome to my GitHub profile! I'm <strong>Marc-Antoine Nadeau</strong>, a Software Engineering Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in applied artificial intelligence.
 </p>
 
 <h2 align="center">👯 Let's Collaborate!</h2>
-<p align="center">
-  I'm always excited to work on:
+<p align="center" style="font-size: 16px;">
+  I'm excited to work on:
 </p>
-<ul>
-  <li><strong>Open-source projects</strong> where I can apply my expertise in Python, Java, and C to build something meaningful.</li>
-  <li><strong>Cutting-edge initiatives</strong> in automation, cybersecurity, and intelligent systems, pushing the boundaries of what's possible.</li>
+<ul style="list-style-type: none; text-align: center; padding-left: 0;">
+  <li style="padding: 5px 0;"><strong>🚀 Open-source projects:</strong> Applying my skills in Python, Java, and C to create impactful solutions.</li>
+  <li style="padding: 5px 0;"><strong>💡 Innovative initiatives:</strong> Pushing the boundaries of automation, cybersecurity, and intelligent systems.</li>
 </ul>
 
 <h2 align="center">📫 Get in Touch</h2>
-<p align="center">
-  Feel free to reach out if you'd like to discuss a project or simply connect:
+<p align="center" style="font-size: 16px;">
+  Feel free to reach out if you'd like to discuss a project or connect:
 </p>
 <div align="center">
-  <a href="mailto:nadeau.marc-antoin@outlook.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-nadeau.marc.antoin@outlook.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:nadeau.marc-antoin@outlook.com" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-nadeau.marc.antoin@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ma-nadeau" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Marc--Antoine%20Nadeau-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ma-nadeau" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Marc--Antoine%20Nadeau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ma-nadeau" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-ma--nadeau-lightgrey?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/ma-nadeau" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-ma--nadeau-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
