@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center" style="font-size: 18px;">
-  Welcome to my GitHub profile! I'm <strong>Marc-Antoine Nadeau</strong>, a Software Engineering Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in machine learning, data science, and solving complex computational problems.
+  Welcome to my GitHub profile! I'm <strong>Marc-Antoine Nadeau</strong>, a Software Engineering Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in  <strong>machine learning </strong>,  <strong>AI</strong>, <strong>data science</strong>, and solving <strong>complex computational problems</strong>.
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
