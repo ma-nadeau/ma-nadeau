@@ -23,16 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
 </div>
 
-<h2 align="center">👯 Let's Collaborate!</h2>
-<p align="Left" style="font-size: 16px;">
-  I'm excited to work on:
-</p>
-<ul style="list-style-type: none; text-align: center; padding-left: 0;">
-  <li style="padding: 5px 0;"><strong>🚀 Open-source projects:</strong> Applying my skills in Python, Java, and C to create impactful solutions.</li>
-  <li style="padding: 5px 0;"><strong>💡 Innovative initiatives:</strong> Pushing the boundaries of automation, cybersecurity, and intelligent systems.</li>
-</ul>
-
-
 
 <h2 align="center">📫 Get in Touch</h2>
 <p align="left" style="font-size: 16px;">
@@ -45,22 +35,5 @@
   <a href="https://www.linkedin.com/in/ma-nadeau" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-Marc--Antoine%20Nadeau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ma-nadeau" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-ma--nadeau-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
-<!--
-**ma-nadeau/ma-nadeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
