@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software En
 - **Data Science**
 - **Scientific Computing**
 - **Optimization**
+- **Finance & Economics**
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
