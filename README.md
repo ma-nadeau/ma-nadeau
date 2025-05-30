@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software Engineering** Co-op student at McGill University, minoring in **Applied AI**. I have a passion for developing innovative software solutions and a keen interest in:
+Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software Engineering** Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in:
 - **AI**
 - **Analytics**
 - **Data Science**
@@ -8,6 +8,13 @@ Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software En
 - **Machine Learning**
 - **Optimization**
 - **Scientific Computing**
+
+<h2 align="center">💼 Work Experience</h2>
+
+- **Summer Analyst           – Electronic Trading @ Morgan Stanley**
+- **Software Engineer Intern – Power System Automation @ Hydro-Québec**
+- **Cybersecurity Intern     – Threat Monitoring System @ Hydro-Québec**
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
