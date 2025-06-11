@@ -9,8 +9,11 @@ Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software En
 - **Optimization**
 - **Scientific Computing**
 
+**Here's my website:** [ma-nadeau.com](https://ma-nadeau.com/)
+
 <h2 align="center">💼 Work Experience</h2>
 
+- **AI \& Analytics** – Advanced Analytics @ CDPQ
 - **Summer Analyst** – Electronic Trading @ Morgan Stanley  
 - **Software Engineer Intern** – Power System Automation @ Hydro-Québec  
 - **Cybersecurity Intern** – Threat Monitoring System @ Hydro-Québec  
