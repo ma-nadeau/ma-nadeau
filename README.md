@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software En
 
 <h2 align="center">💼 Work Experience</h2>
 
-- **AI \& Analytics** – Advanced Analytics @ CDPQ
+- **AI \& Analytics** – AI for Private Equity @ CDPQ
 - **Summer Analyst** – Electronic Trading @ Morgan Stanley  
 - **Software Engineer Intern** – Power System Automation @ Hydro-Québec  
 - **Cybersecurity Intern** – Threat Monitoring System @ Hydro-Québec  
