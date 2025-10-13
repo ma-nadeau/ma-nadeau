@@ -1,13 +1,18 @@
 <h1 align="center">Hi there 👋</h1>
 
-Welcome to my GitHub profile! I'm **Marc-Antoine Nadeau**, a B.Eng **Software Engineering** Co-op student at McGill University. I have a passion for developing innovative software solutions and a keen interest in:
-- **AI**
-- **Analytics**
-- **Data Science**
-- **Finance & Economics**
-- **Machine Learning**
-- **Optimization**
-- **Scientific Computing**
+## Hi there 👋
+
+Hi! I’m **Marc-Antoine (Marc) Nadeau**, a **B.Eng. Software Engineering Co-op** student at **McGill University** with a strong interest in the intersection of **business, finance, and technology**.
+
+I’m passionate about applying analytical and quantitative methods to drive innovation and strategic decision-making across areas such as:
+
+- 💼 **Finance & Economics**  
+- 📊 **Quantitative Finance**  
+- 🤖 **Artificial Intelligence & Data Science**  
+- 🧠 **Machine Learning & Optimization**  
+- 🧭 **Strategy & Business**
+
+I aspire to leverage technology and quantitative thinking to create value, enable data-driven decisions, and bridge the gap between technical insight and business strategy.
 
 **Here's my website:** [ma-nadeau.com](https://ma-nadeau.com/)
 
