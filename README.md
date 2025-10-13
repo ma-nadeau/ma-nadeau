@@ -48,7 +48,7 @@ I aspire to leverage technology and quantitative thinking to create value, enabl
   Feel free to reach out if you'd like to discuss a project or connect:
 </p>
 <div align="center">
-  <a href="mailto:nadeau.marc-antoin@hotmail.com" style="text-decoration: none; margin: 0 10px;">
+  <a href="mailto:connect-ma-nadeau@outlook.com.com" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-nadeau.marc.antoin@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ma-nadeau" style="text-decoration: none; margin: 0 10px;">
