@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">About 👋</h1>
 
-## Hi there 👋
 
 Hi! I’m **Marc-Antoine (Marc) Nadeau**, a **B.Eng. Software Engineering Co-op** student at **McGill University** with a strong interest in the intersection of **business, finance, and technology**.
 
