@@ -17,7 +17,7 @@ I aspire to leverage technology and quantitative thinking to create value, enabl
 
 <h2 align="center">💼 Work Experience</h2>
 
-- **AI \& Analytics** – AI for Private Equity @ CDPQ
+- **Data Science \& AI Intern** – Unstructured Data @ CDPQ
 - **Summer Analyst** – Electronic Trading @ Morgan Stanley  
 - **Software Engineer Intern** – Power System Automation @ Hydro-Québec  
 - **Cybersecurity Intern** – Threat Monitoring System @ Hydro-Québec  
