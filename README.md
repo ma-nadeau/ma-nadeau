@@ -37,12 +37,16 @@ I aspire to leverage technology and quantitative thinking to create value, enabl
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" alt="Top Languages" style="width:70%; margin:10px auto; display:block;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" alt="Marc-Antoine's GitHub Stats" style="width: 70%; margin: 10px 0;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-nadeau&theme=radical" alt="GitHub Streak" style="width: 70%; margin: 10px 0;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ma-nadeau&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ma-nadeau&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ma-nadeau&theme=radical" />
+</p>
+
 
 
 <h2 align="center">📫 Get in Touch</h2>
